@@ -1,0 +1,20 @@
+#empresa {
+  padding: 5rem 0;
+}
+
+.text-empresa {
+  color: #363636;
+  font-size: .875rem;
+  line-height: 1.5rem;
+  padding: 16px 0 0 5px;
+  text-align: center;
+}
+
+.empresa-title {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.empresa-span {
+  color: #612c83;
+}
